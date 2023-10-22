@@ -20,4 +20,4 @@ O aplicativo efetua operações CRUD (Criar, Ler, Atualizar, Excluir) em relaç�
 
 ### Desenvolvedora
 
-<a href="https://www.linkedin.com/in/andremarques-dev/" > <img align="center" src="https://img.shields.io/badge/- jusylopes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/andremarques-dev/" >  alt="linkedin"/>
