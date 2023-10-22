@@ -17,7 +17,3 @@ O aplicativo efetua operações CRUD (Criar, Ler, Atualizar, Excluir) em relaç�
 - Flutter
 - Bloc
 - Back4App
-
-### Desenvolvedora
-
-<a href="https://www.linkedin.com/in/andremarques-dev/" >  alt="linkedin"/>
